@@ -1,4 +1,4 @@
-### Hi there 👋, hey, I am Anisur Rahman.
+### Hi there 👋, I am Anisur Rahman.
 #### Full Stack Web Developer
 ![Full Stack Web Developer](https://cdn.savvylance.com/uploads/gigs/6056e5ee1901e.png)
 
